@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Pavankumar Madavi
+# 👋 Hi, I'm Pavankumar Madavi  
 
-🚀 Aspiring Developer  
-🤖 Learning AI & App Development  
+🚀 Aspiring AI & App Developer  
+🤖 Currently learning AI, App Development & building projects
 
 ## 🔥 Skills
 - JavaScript
@@ -10,7 +10,7 @@
 - AI / Machine Learning
 
 ## 🎯 My Journey
-I have started learning AI and App Development. This is my first step into the tech world and I will keep updating my progress here.
+I have started learning AI and App Development. This is my first step into the tech world, and I will keep updating my progress here.
 
 ## 📌 Goals
 - Build real-world projects
@@ -18,3 +18,7 @@ I have started learning AI and App Development. This is my first step into the t
 - Share my journey
 
 Thanks for visiting 🙌
+
+🚀 Follow my journey as I grow in tech!
+## 📫 Connect with me
+- DEV Community: https://dev.to/pavankumar-dev
